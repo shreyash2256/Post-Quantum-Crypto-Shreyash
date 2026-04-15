@@ -32,7 +32,7 @@ This project demonstrates a simple lattice-based encryption scheme inspired by L
 - Decrypted message
 
 ## Author
-Your Name
+Shreyash Bhatt
 
 ## Notes
 Lattice-based cryptography is considered secure against quantum attacks, unlike RSA or ECC.
